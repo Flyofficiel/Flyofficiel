@@ -11,8 +11,6 @@ Hallo! Ich bin **Flyofficiel**, ein leidenschaftlicher Entwickler mit Erfahrung 
 **ENGLISH:**
 I'm a dedicated developer with a strong background in:
 - **C# Development** (.NET applications)
-- **Web Technologies** (JavaScript, JAMstack)
-- **Game Development** (Lua scripting)
 - **Software Architecture** and Best Practices
 
 I'm continuously learning and improving my skills. I enjoy working on challenging projects and contributing to open-source communities.
