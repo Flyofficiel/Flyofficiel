@@ -60,8 +60,6 @@ Ich lerne ständig dazu und verbessere meine Fähigkeiten. Ich arbeite gerne an 
 
 - **Schaldjahrabfrage** - C# utility
 - **Fizz-Buzz Liste** - C# algorithm implementation / C# Algorithmus-Implementierung
-- **Test mit Noah** - C# testing project / C# Testprojekt
-- **Projekt mit Jochen** - Collaborative C# project / Gemeinschaftliches C# Projekt
 
 [View All Repositories / Alle Repositories anzeigen →](https://github.com/Flyofficiel?tab=repositories)
 
