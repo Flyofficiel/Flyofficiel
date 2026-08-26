@@ -41,17 +41,6 @@ Ich lerne ständig dazu und verbessere meine Fähigkeiten. Ich arbeite gerne an 
 
 ---
 
-### 🎮 **SNL Carry**
-**Language/Sprache:** Lua  
-
-**ENGLISH:** A Lua-based project, perfect for game development or scripting.
-
-**DEUTSCH:** Ein Lua-basiertes Projekt, perfekt für Spieleentwicklung oder Scripting.
-- 🔗 [View Repository](https://github.com/Flyofficiel/snl_carry)
-- ⭐ Started/Gestartet: May/Mai 2026
-
----
-
 ### 🍕 **Pizzeria School Project | Pizzeria Schulprojekt**
 **Language/Sprache:** C#  
 
@@ -60,17 +49,6 @@ Ich lerne ständig dazu und verbessere meine Fähigkeiten. Ich arbeite gerne an 
 **DEUTSCH:** Ein Schulprojekt, das objektorientierte Programmierungsprinzipien mit einem Pizzeria-Verwaltungssystem demonstriert.
 - 🔗 [View Repository](https://github.com/Flyofficiel/Pizzeria-Projekt-Schule)
 - ⭐ Started/Gestartet: January/Januar 2026
-
----
-
-### 💬 **JAMstack Comments Engine**
-**Language/Sprache:** JavaScript  
-
-**ENGLISH:** A modern comments engine built on JAMstack architecture for static sites.
-
-**DEUTSCH:** Eine moderne Kommentar-Engine, die auf JAMstack-Architektur für statische Websites aufgebaut ist.
-- 🔗 [View Repository](https://github.com/Flyofficiel/jamstack-comments-engine)
-- ⭐ Started/Gestartet: January/Januar 2025
 
 ---
 
@@ -93,10 +71,9 @@ Ich lerne ständig dazu und verbessere meine Fähigkeiten. Ich arbeite gerne an 
 
 | Category/Kategorie | Technologies/Technologien |
 |----------|--------------|
-| **Languages/Sprachen** | C#, JavaScript, Lua |
+| **Languages/Sprachen** | C# |
 | **Frameworks** | .NET |
-| **Web** | JavaScript, JAMstack |
-| **Version Control/Versionskontrolle** | Git, GitHub |
+| **Version Control/Versionskontrolle** | Git, GitHub, Gitlab |
 
 ---
 
