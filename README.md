@@ -1,11 +1,14 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Welcome to My GitHub Profile | Willkommen auf meinem GitHub-Profil
 
 Hi! I'm **Flyofficiel**, a passionate developer with experience in multiple programming languages and technologies. Welcome to my portfolio!
 
+Hallo! Ich bin **Flyofficiel**, ein leidenschaftlicher Entwickler mit Erfahrung in mehreren Programmiersprachen und Technologien. Willkommen in meinem Portfolio!
+
 ---
 
-## 💼 About Me
+## 💼 About Me | Über mich
 
+**ENGLISH:**
 I'm a dedicated developer with a strong background in:
 - **C# Development** (.NET applications)
 - **Web Technologies** (JavaScript, JAMstack)
@@ -14,53 +17,86 @@ I'm a dedicated developer with a strong background in:
 
 I'm continuously learning and improving my skills. I enjoy working on challenging projects and contributing to open-source communities.
 
+**DEUTSCH:**
+Ich bin ein engagierter Entwickler mit großer Erfahrung in:
+- **C# Entwicklung** (.NET Anwendungen)
+- **Web-Technologien** (JavaScript, JAMstack)
+- **Spieleentwicklung** (Lua-Scripting)
+- **Softwarearchitektur** und Best Practices
+
+Ich lerne ständig dazu und verbessere meine Fähigkeiten. Ich arbeite gerne an herausfordernden Projekten und trage zu Open-Source-Gemeinschaften bei.
+
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects | Ausgewählte Projekte
 
-### 📊 **Stundenmanager**
-**Language:** C# | **License:** Apache 2.0  
-A comprehensive hours/time management application built with C#.
+### 📊 **Stundenmanager** | **Stundenmanager**
+**Language/Sprache:** C# | **License/Lizenz:** Apache 2.0  
+
+**ENGLISH:** A comprehensive hours/time management application built with C#.
+
+**DEUTSCH:** Eine umfassende Stunden-/Zeitverwaltungsanwendung, die mit C# erstellt wurde.
 - 🔗 [View Repository](https://github.com/Flyofficiel/stundenmanager)
-- ⭐ Started: June 2026
+- ⭐ Started/Gestartet: June/Juni 2026
+
+---
 
 ### 🎮 **SNL Carry**
-**Language:** Lua  
-A Lua-based project, perfect for game development or scripting.
-- 🔗 [View Repository](https://github.com/Flyofficiel/snl_carry)
-- ⭐ Started: May 2026
+**Language/Sprache:** Lua  
 
-### 🍕 **Pizzeria School Project**
-**Language:** C#  
-A school project showcasing object-oriented programming principles with a pizzeria management system.
+**ENGLISH:** A Lua-based project, perfect for game development or scripting.
+
+**DEUTSCH:** Ein Lua-basiertes Projekt, perfekt für Spieleentwicklung oder Scripting.
+- 🔗 [View Repository](https://github.com/Flyofficiel/snl_carry)
+- ⭐ Started/Gestartet: May/Mai 2026
+
+---
+
+### 🍕 **Pizzeria School Project | Pizzeria Schulprojekt**
+**Language/Sprache:** C#  
+
+**ENGLISH:** A school project showcasing object-oriented programming principles with a pizzeria management system.
+
+**DEUTSCH:** Ein Schulprojekt, das objektorientierte Programmierungsprinzipien mit einem Pizzeria-Verwaltungssystem demonstriert.
 - 🔗 [View Repository](https://github.com/Flyofficiel/Pizzeria-Projekt-Schule)
-- ⭐ Started: January 2026
+- ⭐ Started/Gestartet: January/Januar 2026
+
+---
 
 ### 💬 **JAMstack Comments Engine**
-**Language:** JavaScript  
-A modern comments engine built on JAMstack architecture for static sites.
+**Language/Sprache:** JavaScript  
+
+**ENGLISH:** A modern comments engine built on JAMstack architecture for static sites.
+
+**DEUTSCH:** Eine moderne Kommentar-Engine, die auf JAMstack-Architektur für statische Websites aufgebaut ist.
 - 🔗 [View Repository](https://github.com/Flyofficiel/jamstack-comments-engine)
-- ⭐ Started: January 2025
+- ⭐ Started/Gestartet: January/Januar 2025
 
-### 🔄 **Additional Projects**
-More repositories showcasing my skills:
+---
+
+### 🔄 **Additional Projects | Weitere Projekte**
+
+**ENGLISH:** More repositories showcasing my skills:
+
+**DEUTSCH:** Weitere Repositories, die meine Fähigkeiten zeigen:
+
 - **Schaldjahrabfrage** - C# utility
-- **Fizz-Buzz Liste** - C# algorithm implementation
-- **Test mit Noah** - C# testing project
-- **Projekt mit Jochen** - Collaborative C# project
+- **Fizz-Buzz Liste** - C# algorithm implementation / C# Algorithmus-Implementierung
+- **Test mit Noah** - C# testing project / C# Testprojekt
+- **Projekt mit Jochen** - Collaborative C# project / Gemeinschaftliches C# Projekt
 
-[View All Repositories →](https://github.com/Flyofficiel?tab=repositories)
+[View All Repositories / Alle Repositories anzeigen →](https://github.com/Flyofficiel?tab=repositories)
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
+| Category/Kategorie | Technologies/Technologien |
 |----------|--------------|
-| **Languages** | C#, JavaScript, Lua |
+| **Languages/Sprachen** | C#, JavaScript, Lua |
 | **Frameworks** | .NET |
 | **Web** | JavaScript, JAMstack |
-| **Version Control** | Git, GitHub |
+| **Version Control/Versionskontrolle** | Git, GitHub |
 
 ---
 
@@ -72,31 +108,37 @@ More repositories showcasing my skills:
 
 ---
 
-## 🎯 What I'm Currently Doing
+## 🎯 What I'm Currently Doing | Was ich gerade mache
 
-- 🔨 Actively developing and maintaining my projects
-- 📚 Continuously learning new technologies and best practices
-- 🤝 Open to collaboration and interesting projects
+- 🔨 Actively developing and maintaining my projects / Aktive Entwicklung und Wartung meiner Projekte
+- 📚 Continuously learning new technologies and best practices / Ständiges Lernen neuer Technologien und Best Practices
+- 🤝 Open to collaboration and interesting projects / Offen für Zusammenarbeit und interessante Projekte
 
 ---
 
-## 📞 Get in Touch
+## 📞 Get in Touch | Kontakt
 
+**ENGLISH:**
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything exciting!
 
+**DEUTSCH:**
+Erkunden Sie gerne meine Repositories und kontaktieren Sie mich, wenn Sie zusammenarbeiten oder etwas Spannendes besprechen möchten!
+
 - 🔗 GitHub: [@Flyofficiel](https://github.com/Flyofficiel)
-- 💼 Looking for opportunities in software development
+- 💼 Looking for opportunities in software development / Auf der Suche nach Möglichkeiten in der Softwareentwicklung
 
 ---
 
-## 📝 License
+## 📝 License | Lizenz
 
-Most of my projects are open-source. Check individual repositories for specific license information.
+**ENGLISH:** Most of my projects are open-source. Check individual repositories for specific license information.
 
----
-
-**⭐ If you find my work interesting, feel free to star some repositories!**
+**DEUTSCH:** Die meisten meiner Projekte sind Open-Source. Überprüfen Sie einzelne Repositories für spezifische Lizenzinformationen.
 
 ---
 
-*Last updated: August 2026*
+**⭐ If you find my work interesting, feel free to star some repositories! | Wenn dir meine Arbeit gefällt, kannst du gerne ein paar Repositories mit einem Star markieren!**
+
+---
+
+*Last updated/Zuletzt aktualisiert: August 2026*
