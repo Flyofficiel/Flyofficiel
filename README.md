@@ -18,8 +18,6 @@ I'm continuously learning and improving my skills. I enjoy working on challengin
 **DEUTSCH:**
 Ich bin ein engagierter Entwickler mit großer Erfahrung in:
 - **C# Entwicklung** (.NET Anwendungen)
-- **Web-Technologien** (JavaScript, JAMstack)
-- **Spieleentwicklung** (Lua-Scripting)
 - **Softwarearchitektur** und Best Practices
 
 Ich lerne ständig dazu und verbessere meine Fähigkeiten. Ich arbeite gerne an herausfordernden Projekten und trage zu Open-Source-Gemeinschaften bei.
