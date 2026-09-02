@@ -1,115 +1,100 @@
-# 👋 Welcome to My GitHub Profile | Willkommen auf meinem GitHub-Profil
+# 👋Willkommen auf meinem GitHub-Profil
 
-Hi! I'm **Flyofficiel**, a passionate developer with experience in multiple programming languages and technologies. Welcome to my portfolio!
 
-Hallo! Ich bin **Flyofficiel**, ein leidenschaftlicher Entwickler mit Erfahrung in mehreren Programmiersprachen und Technologien. Willkommen in meinem Portfolio!
-
+Hallo! Ich bin **Lucas Huber**, ein leidenschaftlicher Entwickler mit den unten Genanten programmiersprachen
 ---
 
-## 💼 About Me | Über mich
+## 💼 Über mich
 
-**ENGLISH:**
-I'm a dedicated developer with a strong background in:
-- **C# Development** (.NET applications)
-- **Software Architecture** and Best Practices
 
-I'm continuously learning and improving my skills. I enjoy working on challenging projects and contributing to open-source communities.
-
-**DEUTSCH:**
-Ich bin ein engagierter Entwickler mit großer Erfahrung in:
+ich interessiere mich und arbeite mit folgenden Sprachen:
 - **C# Entwicklung** (.NET Anwendungen)
-- **Softwarearchitektur** und Best Practices
+- **SQL** (MySQL datenbanken)
+- **Python** 
+- **LUA** (game und script erstellung)
 
-Ich lerne ständig dazu und verbessere meine Fähigkeiten. Ich arbeite gerne an herausfordernden Projekten und trage zu Open-Source-Gemeinschaften bei.
-
----
-
-## 🚀 Featured Projects | Ausgewählte Projekte
-
-### 📊 **Stundenmanager** | **Stundenmanager**
-**Language/Sprache:** C# | **License/Lizenz:** Apache 2.0  
-
-**ENGLISH:** A comprehensive hours/time management application built with C#.
-
-**DEUTSCH:** Eine umfassende Stunden-/Zeitverwaltungsanwendung, die mit C# erstellt wurde.
-- 🔗 [View Repository](https://github.com/Flyofficiel/stundenmanager)
-- ⭐ Started/Gestartet: June/Juni 2026
+Ich probiere mich gerne mit verschiedenen Programmiersprachen aus und versuche immer weiteres zu lernen
 
 ---
 
-### 🍕 **Pizzeria School Project | Pizzeria Schulprojekt**
-**Language/Sprache:** C#  
+## 🚀  Projekt Beispiele
 
-**ENGLISH:** A school project showcasing object-oriented programming principles with a pizzeria management system.
+### 📊 **Stundenmanager**
+**Sprache:** C# | **Lizenz:** Apache 2.0  
 
-**DEUTSCH:** Ein Schulprojekt, das objektorientierte Programmierungsprinzipien mit einem Pizzeria-Verwaltungssystem demonstriert.
-- 🔗 [View Repository](https://github.com/Flyofficiel/Pizzeria-Projekt-Schule)
-- ⭐ Started/Gestartet: January/Januar 2026
+ Eine C# terminal anwendung für übersicht der stunden nach einem stundenplan
+- 🔗 [zum Repository](https://github.com/lucashuberdev/stundenmanager)
+- ⭐ Gestartet: Juni 2026
+
+---
+
+### 🍕 **Pizzeria Schulprojekt**
+**Sprache:** C#,SQL
+
+ Dies war mein Abschlussprojekt für die 12 klasse Fach Abitur informatik. in diesem projekt sollten wir
+ein verwaltungs system machen für eine Pizzeria. Dies wurde mit C# als eine Windows Forms und einer MySQL database gemacht  
+- 🔗 [Zum Repository](https://github.com/lucashuberdev/Pizzeria-Projekt-Schule)
+- ⭐ Gestartet: Januar 2026
 
 ---
 
 ### 🔄 **Additional Projects | Weitere Projekte**
 
-**ENGLISH:** More repositories showcasing my skills:
-
-**DEUTSCH:** Weitere Repositories, die meine Fähigkeiten zeigen:
+Weitere Repositories, die meine Fähigkeiten zeigen:
 
 - **Schaldjahrabfrage** - C# utility
-- **Fizz-Buzz Liste** - C# algorithm implementation / C# Algorithmus-Implementierung
+- **Fizz-Buzz Liste** -  C# Algorithmus-Implementierung
 
-[View All Repositories / Alle Repositories anzeigen →](https://github.com/Flyofficiel?tab=repositories)
+[Alle Repositories anzeigen →](https://github.com/lucashuberdev?tab=repositories)
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category/Kategorie | Technologies/Technologien |
+| Kategorie | Technologien |
 |----------|--------------|
-| **Languages/Sprachen** | C# |
+| **Sprachen** | C# |
 | **Frameworks** | .NET |
-| **Version Control/Versionskontrolle** | Git, GitHub, Gitlab |
+| **Versionskontrolle** | Git, GitHub, Gitlab |
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flyofficiel&show_icons=true&theme=dark&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucashuberdev&show_icons=true&theme=dark&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flyofficiel&layout=compact&theme=dark)
-
----
-
-## 🎯 What I'm Currently Doing | Was ich gerade mache
-
-- 🔨 Actively developing and maintaining my projects / Aktive Entwicklung und Wartung meiner Projekte
-- 📚 Continuously learning new technologies and best practices / Ständiges Lernen neuer Technologien und Best Practices
-- 🤝 Open to collaboration and interesting projects / Offen für Zusammenarbeit und interessante Projekte
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashuberdev&layout=compact&theme=dark)
 
 ---
 
-## 📞 Get in Touch | Kontakt
+## 🎯  Was ich gerade mache
 
-**ENGLISH:**
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything exciting!
+- 🔨  ich entwickel meine projekt ständig weiter und fixe bugs
+- 📚  ich lerne weiterin dazu und versuche weiteres zu lernen
+- 🤝  ich bin Offen für Zusammenarbeit und interessante Projekte
 
-**DEUTSCH:**
+---
+
+## 📞  Kontakt
+
+
 Erkunden Sie gerne meine Repositories und kontaktieren Sie mich, wenn Sie zusammenarbeiten oder etwas Spannendes besprechen möchten!
 
-- 🔗 GitHub: [@Flyofficiel](https://github.com/Flyofficiel)
-- 💼 Looking for opportunities in software development / Auf der Suche nach Möglichkeiten in der Softwareentwicklung
+- 🔗 GitHub: [@lucashuberdev](https://github.com/lucashuberdev)
+- 💼  Auf der Suche nach Möglichkeiten in der Softwareentwicklung
 
 ---
 
-## 📝 License | Lizenz
+## 📝  Lizenz
 
-**ENGLISH:** Most of my projects are open-source. Check individual repositories for specific license information.
 
-**DEUTSCH:** Die meisten meiner Projekte sind Open-Source. Überprüfen Sie einzelne Repositories für spezifische Lizenzinformationen.
 
----
-
-**⭐ If you find my work interesting, feel free to star some repositories! | Wenn dir meine Arbeit gefällt, kannst du gerne ein paar Repositories mit einem Star markieren!**
+ Die meisten meiner Projekte sind Open-Source. Überprüfen Sie einzelne Repositories für spezifische Lizenzinformationen.
 
 ---
 
-*Last updated/Zuletzt aktualisiert: August 2026*
+**⭐ Wenn dir meine Arbeit gefällt, kannst du gerne ein paar Repositories mit einem Star markieren!**
+
+---
+
+*Zuletzt aktualisiert: September 2026*
