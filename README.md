@@ -71,9 +71,9 @@ Weitere Repositories, die meine Fähigkeiten zeigen:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucashuberdev&show_icons=true&theme=dark&count_private=false)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucashuberdev&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashuberdev&layout=compact&theme=dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucashuberdev&theme=github_dark)
 
 ---
 
