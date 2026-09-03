@@ -38,6 +38,16 @@ ein verwaltungs system machen für eine Pizzeria. Dies wurde mit C# als eine Win
 
 ---
 
+### **Produkt Anzeige**
+**Sprache:** Python,SQL
+
+dieses Projekt war eine schulaufgabe wo wir Produkte anzeigen sollten. Die Produkte werden aus der Database genommen.
+An sich gibt es keine vorgabe für die datenbank man kann jede DB verwenden man kann in den einstellungen im program den Host,username,passwort und die datenbank ändern
+- 🔗 [Zum Repository](https://github.com/lucashuberdev/Produkt-Anzeige)
+- ⭐Gestartet: August 2026
+
+---
+
 ### 🔄 **Additional Projects | Weitere Projekte**
 
 Weitere Repositories, die meine Fähigkeiten zeigen:
